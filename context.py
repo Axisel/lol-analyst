@@ -1,11 +1,3 @@
-# This file is for general infos
-
-#puuid de MrGhastien
-# L7MN_B_7iqnXxB3aY6H_eePfmKsEYVNlXm06F_69K339LPo87msHCilSzdf6QTGrJVpvAjyon89r3w
-
-#puuid de Erwann
-#
-
 errors = { '200' : 'Request accepted', '400' : 'Bad request', '401' : 'Unauthorized', '403' : 'Forbidden'
           ,'404' : 'Not found', '405' : 'Method not allowed','415' : 'Unsupported media type','429' : 'Rate limit exceeded'
           ,'500' : 'Internal server error', '502' : 'Bad gateway','503' : 'Service unavailable', '504' : 'Gateway timeout' }
