@@ -1,2 +1,2 @@
 # lol-analyst
-A League of Legends analyst tool in command line.
+A League of Legend CLI to see your matches history and the free champions of the week.
